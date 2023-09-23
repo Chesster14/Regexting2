@@ -18,7 +18,9 @@ Add url here
 
 ## Information
 
+Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
 
+This website will build the back end for an e-commerce company.Express.js API will allow you to use Sequelize to interact with a MySQL database.
 
 ## Installation
   Click on the link to the website above to visit this site [Visit this website]
